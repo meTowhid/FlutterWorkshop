@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_workshop/home.dart';
+import 'package:flutter_workshop/demo.dart';
 
 void main() {
-  runApp(ExperimentalApp());
+  runApp(WorkshopApp());
 }
 
-class ExperimentalApp extends StatelessWidget {
+class WorkshopApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: HomeScreen(), debugShowCheckedModeBanner: false);
+    return MaterialApp(home: Demo(), debugShowCheckedModeBanner: false);
   }
 }
