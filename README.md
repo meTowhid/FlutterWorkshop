@@ -1,7 +1,6 @@
 # Flutter Workshop
+---
 
+## Bumped Bottom Navigation Bar [Demo](https://github.com/meTowhid/FlutterWorkshop/tree/bumped_bottom_nav)
 
-### Preview
-1                  
-:-----------------:
-![](preview/ic_launcher.png) 
+[![](preview/bumped_bottom_nav.gif)](https://github.com/meTowhid/FlutterWorkshop/tree/bumped_bottom_nav)
