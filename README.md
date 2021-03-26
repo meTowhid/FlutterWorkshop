@@ -1,6 +1,6 @@
 # Flutter Workshop
 ---
 
-## Bumped Bottom Navigation Bar [Demo](https://github.com/meTowhid/FlutterWorkshop/tree/bumped_bottom_nav)
+## Gradient Curved Chart [Demo](https://github.com/meTowhid/FlutterWorkshop/tree/gradient_curved_chart)
 
-[![](preview/bumped_bottom_nav.gif)](https://github.com/meTowhid/FlutterWorkshop/tree/bumped_bottom_nav)
+[![](preview/gradient_curved_chart.png)](https://github.com/meTowhid/FlutterWorkshop/tree/gradient_curved_chart)
