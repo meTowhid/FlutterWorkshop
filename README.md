@@ -1,6 +1,6 @@
 # Flutter Workshop
 ---
 
-## Bumped Bottom Navigation Bar [Demo](https://github.com/meTowhid/FlutterWorkshop/tree/bumped_bottom_nav)
+## Blobby Gradient Line [Demo](https://github.com/meTowhid/FlutterWorkshop/tree/blobby_gradient_line)
 
-[![](preview/bumped_bottom_nav.gif)](https://github.com/meTowhid/FlutterWorkshop/tree/bumped_bottom_nav)
+[![](preview/blobby_gradient_line.gif)](https://github.com/meTowhid/FlutterWorkshop/tree/blobby_gradient_line)
